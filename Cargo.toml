@@ -1,0 +1,9 @@
+[package]
+name = "ultimate_fibonacci"
+version = "0.1.0"
+authors = ["Kyle Strand"]
+edition = "2018"
+
+[dependencies]
+num_bigint = "0.2.1"
+num_traits = "0.2.6"
